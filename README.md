@@ -8,8 +8,8 @@ Clone the project including the Makefile, cd into the directory, enter "make" in
 "./Game2048Main -h" for usage.
 
 Required:
-  ncurses
-  gtest  (comment all 'test' out in the Makefile to ignore tests)
+ncurses
+gtest  (comment all 'test' out in the Makefile to ignore tests)
   
 Play the Game
 =============
