@@ -1,0 +1,6 @@
+Ich mache Projekt 1.
+
+Ich habe hier schonmal den constructor der Game-Klasse
+implementiert, welcher einen random initial state erstellt
+und dann die Board-Klasse weitergibt, welche dann spater
+alles visuelle handhaben wird..
