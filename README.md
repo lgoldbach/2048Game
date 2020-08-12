@@ -1,5 +1,5 @@
 # 2048Game
-2048 game, final programming project for c++ course (Uni. Freiburg).
+The classic 2048 game. My final programming project for Advanced Programming (C++) course at University of Freiburg (Summer 2020).
 
 Run the Game
 ============
