@@ -3,9 +3,9 @@ The classic 2048 game. My final programming project for Advanced Programming (C+
 
 Run the Game
 ============
-Clone the project including the Makefile, cd into the directory, enter "make" into command line and then enter ./Game2048Main .
-./Game2048 -u [n] give you 3 consecutive undos while playing.
-./Game2048 -h for usage.
+Clone the project including the Makefile, cd into the directory, enter "make" into command line and then enter "./Game2048Main" .
+"./Game2048Main -u [n]" give you n consecutive undos while playing (e.g. ./Game2048 -u 3 gives you 3 undos, default is 0 undos).
+"./Game2048Main -h" for usage.
 
 Required:
   ncurses
